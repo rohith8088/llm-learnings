@@ -1,0 +1,6 @@
+streamlit
+chromadb
+PyPDF2
+python-dotenv
+uuid
+requests
